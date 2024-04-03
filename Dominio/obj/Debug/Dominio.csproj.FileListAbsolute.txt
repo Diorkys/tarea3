@@ -1,0 +1,22 @@
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\Comun.dll
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\admin\Desktop\CrudNCapas\Dominio\bin\Debug\Comun.pdb
+C:\Users\admin\Desktop\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\admin\Desktop\CrudNCapas\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Desktop\CrudNCapas\Dominio\obj\Debug\Dominio.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\Comun.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\bin\Debug\Comun.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Dominio\obj\Debug\Dominio.pdb
