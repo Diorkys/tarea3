@@ -1,0 +1,36 @@
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Comun.dll
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\CrudNCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Comun.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\admin\Desktop\proyectos de visual\CrudNCapas\Presentacion\obj\Debug\Presentacion.pdb
